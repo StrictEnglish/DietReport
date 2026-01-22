@@ -1,9 +1,9 @@
-# DietReport (식습관보고서) Privacy Policy
+# DietReport Privacy Policy
 
 Last revised: 2026-01-15  
 Effective date: 2026-01-15  
-App name: DietReport (식습관보고서)  
-Responsible person: Junyoung Park (박준영)  
+App name: DietReport
+Responsible person: Jun Young Park
 Contact: strictenglish@gmail.com
 
 DietReport (the "App") takes your privacy seriously. This Privacy Policy explains how we collect, use, disclose, retain, and protect personal information in connection with the App and related services, in accordance with applicable laws and regulations, including references to the EU General Data Protection Regulation (GDPR) and the California Consumer Privacy Act (CCPA) where relevant.
